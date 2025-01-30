@@ -1,0 +1,1 @@
+OCR -> img to txt: https://github.com/tesseract-ocr/tessdoc
