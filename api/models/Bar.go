@@ -2,6 +2,7 @@ package models
 
 type Bar struct {
 	BarDetails struct {
+		Name    string `json:"name"`
 		Address string `json:"address"`
 		Url     string `json:"url"`
 	} `json:"bar_details"`
